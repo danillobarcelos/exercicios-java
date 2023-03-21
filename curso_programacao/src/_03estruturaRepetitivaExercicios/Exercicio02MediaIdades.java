@@ -2,7 +2,7 @@ package _03estruturaRepetitivaExercicios;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercico02MediaIdades {
+public class Exercicio02MediaIdades {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
