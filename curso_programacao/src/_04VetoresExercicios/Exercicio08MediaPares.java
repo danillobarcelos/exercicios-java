@@ -36,6 +36,6 @@ public class Exercicio08MediaPares {
 			System.out.print(media);
 		}
 		
-		
+		sc.close();
 	}
 }
